@@ -1,0 +1,3 @@
+Select name 
+from country
+where region='Central America' OR region='North America';
